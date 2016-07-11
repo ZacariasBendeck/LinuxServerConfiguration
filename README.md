@@ -1,3 +1,7 @@
+***I forgot to include the new password!!  
+The new password is UdacitY2016%
+Sorry about that!
+
 # LinuxServerConfiguration
 
 Public IP Address and website address.  The webpage to my application is the same:
